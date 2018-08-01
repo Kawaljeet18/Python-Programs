@@ -1,2 +1,3 @@
 # Python-Programs
-A Repository Contaning Python Programs
+A Repository Contaning various short Python Programs
+
